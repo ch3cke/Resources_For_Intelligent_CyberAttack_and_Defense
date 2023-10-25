@@ -1,15 +1,12 @@
 [submodule "DataSets/Awesome-Cybersecurity-Datasets"]
 	path = DataSets/Awesome-Cybersecurity-Datasets
 	url = git@github.com:shramos/Awesome-Cybersecurity-Datasets.git
-[submodule "Papsers"]
-	path = Papsers
-	url = git@github.com:deanuniversityofsalford/Systematic-Literature-Review---AI-in-Penetration-testing-and-vulnerability-assessment.git
-[submodule "Papers/Systematic-Literature-Review---AI-in-Penetration-testing-and-vulnerability-assessment"]
-	path = Papers/Systematic-Literature-Review---AI-in-Penetration-testing-and-vulnerability-assessment
-	url = git@github.com:deanuniversityofsalford/Systematic-Literature-Review---AI-in-Penetration-testing-and-vulnerability-assessment.git
 [submodule "SimulatedEnvs/CyberBattleSim"]
 	path = SimulatedEnvs/CyberBattleSim
 	url = git@github.com:microsoft/CyberBattleSim.git
 [submodule "SimulatedEnvs/NetworkAttackSimulator"]
 	path = SimulatedEnvs/NetworkAttackSimulator
 	url = git@github.com:Jjschwartz/NetworkAttackSimulator.git
+[submodule "Papers/github_paper"]
+	path = Papers/github_paper
+	url = git@github.com:deanuniversityofsalford/Systematic-Literature-Review---AI-in-Penetration-testing-and-vulnerability-assessment.git
